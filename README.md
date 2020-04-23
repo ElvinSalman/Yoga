@@ -1,2 +1,2 @@
 # Yoga
-# Responsive site
+# Responsive site with Js codes.
